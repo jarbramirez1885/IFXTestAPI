@@ -1,0 +1,8 @@
+C:\Users\jramirezbal2\Downloads\IFX\school.api\school.ApplicationCore\bin\Debug\netstandard2.0\school.ApplicationCore.deps.json
+C:\Users\jramirezbal2\Downloads\IFX\school.api\school.ApplicationCore\bin\Debug\netstandard2.0\school.ApplicationCore.dll
+C:\Users\jramirezbal2\Downloads\IFX\school.api\school.ApplicationCore\bin\Debug\netstandard2.0\school.ApplicationCore.pdb
+C:\Users\jramirezbal2\Downloads\IFX\school.api\school.ApplicationCore\obj\Debug\netstandard2.0\school.ApplicationCore.AssemblyInfoInputs.cache
+C:\Users\jramirezbal2\Downloads\IFX\school.api\school.ApplicationCore\obj\Debug\netstandard2.0\school.ApplicationCore.AssemblyInfo.cs
+C:\Users\jramirezbal2\Downloads\IFX\school.api\school.ApplicationCore\obj\Debug\netstandard2.0\school.ApplicationCore.csproj.CoreCompileInputs.cache
+C:\Users\jramirezbal2\Downloads\IFX\school.api\school.ApplicationCore\obj\Debug\netstandard2.0\school.ApplicationCore.dll
+C:\Users\jramirezbal2\Downloads\IFX\school.api\school.ApplicationCore\obj\Debug\netstandard2.0\school.ApplicationCore.pdb

@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "S4ILpD4pNXMxWKZ//JDwAZCY8CDiT3WaXMFi/7uQC+zSN4LGzPzwam1CPcVMUpIHyuItoE+PA1PRmE8dvs/8VQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\jramirezbal2\\Downloads\\IFX\\school.api\\school.ApplicationCore\\school.ApplicationCore.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jramirezbal2\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\jramirezbal2\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\jramirezbal2\\.nuget\\packages\\system.componentmodel.annotations\\5.0.0\\system.componentmodel.annotations.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,48 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>school.api</name>
+    </assembly>
+    <members>
+        <member name="M:school.api.Controllers.ApplicationsController.Get">
+            <summary>
+            Get list of Applications
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:school.api.Controllers.ApplicationsController.Get(System.Int32)">
+            <summary>
+            Get an Application by Id
+            </summary>
+            <param name="id"></param>
+            <returns></returns>
+        </member>
+        <member name="M:school.api.Controllers.ApplicationsController.Post(school.api.Entities.Application)">
+            <summary>
+            Input a new Application.
+            </summary>
+            <param name="apply"></param>
+            <returns></returns>
+        </member>
+        <member name="M:school.api.Controllers.ApplicationsController.Put(school.api.Entities.Application)">
+            <summary>
+            Update an Application.
+            </summary>
+            <param name="newApply"></param>
+            <returns></returns>
+        </member>
+        <member name="M:school.api.Controllers.ApplicationsController.Delete(System.Int32)">
+            <summary>
+            Delete an Application.
+            </summary>
+            <param name="id"></param>
+            <returns></returns>
+        </member>
+        <member name="M:school.api.Controllers.HousesController.Get">
+            <summary>
+            Get list of Houses
+            </summary>
+            <returns></returns>
+        </member>
+    </members>
+</doc>
